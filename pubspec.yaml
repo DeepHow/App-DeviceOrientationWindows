@@ -1,7 +1,7 @@
 name: device_orientation_windows
 description: A Flutter plugin to get Windows device orientation using wingdi
 version: 0.0.1
-homepage:
+homepage: https://github.com/DeepHow/App-DeviceOrientationWindows
 
 environment:
   sdk: '>=3.0.2 <4.0.0'
